@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c7daea;
+  }
+  h1 {
+    color: rgb(0, 0, 152);
+    font-size: 40px;
+  }
+  body
+  {
+    color: rgb(110, 110, 5);
+  }
+  .box {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: beige;
+  }
+  
+  
